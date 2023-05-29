@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# Learning private instance method
 
 class Dog
   attr_reader :age, :dog_years
